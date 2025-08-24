@@ -9,7 +9,7 @@ from openpyxl.styles import Alignment
 from openpyxl.utils import get_column_letter
 import io
 
-st.set_page_config(page_title="Profit and Loss Dash", layout="wide")
+st.set_page_config(page_title="Monthly profit and Loss (Admin)", layout="wide")
 st.title("💹 Profit and Loss Dashboard")
 
 # ✅ Uploader
